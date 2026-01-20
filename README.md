@@ -9,6 +9,8 @@ This guide explains how to install **Gitea** (a lightweight self-hosted Git serv
 ```bash
 sudo apt update
 sudo apt install -y git wget curl
-## 3️⃣ Install & Configure MariaDB (Database)
+3️⃣ Install & Configure MariaDB (Database)
 ✅ Install MariaDB
+
+```bash
 sudo apt install mariadb-server mariadb-client -y
