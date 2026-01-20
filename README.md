@@ -217,9 +217,6 @@ Gitea + Jenkins Integration
 📍 Happy Coding & Version Controlling!
 
 
----
-
-If you want ✅ I can also add **Nginx reverse proxy + SSL full steps** in the same README.md.
 
 
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+
