@@ -89,7 +89,7 @@ sudo chmod -R 770 /etc/gitea
 ## 6️⃣ Create systemd Service File
 
 ```bash
-sudo nano /etc/systemd/system/gitea.service
+sudo vim /etc/systemd/system/gitea.service
 ```
 
 Paste the following configuration:
